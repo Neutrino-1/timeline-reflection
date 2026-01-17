@@ -1,0 +1,354 @@
+{
+  "1999": {
+    "analysis_summary": "Subject demonstrates high latent potential. Primary activities involve basic biological functions and rapid sensory data acquisition.",
+    "skills_matrix": { "Creativity": 10, "Logic": 5, "Physical": 10, "Social": 20, "Tech": 0 },
+    "top_career_matches": [
+      { "role": "Future Human", "match_percentage": 100 },
+      { "role": "Professional Napper", "match_percentage": 95 },
+      { "role": "Cry Analyst", "match_percentage": 90 },
+      { "role": "Sleep Specialist", "match_percentage": 85 },
+      { "role": "Milk Taster", "match_percentage": 80 },
+      { "role": "Diaper Consultant", "match_percentage": 75 },
+      { "role": "Crawling Coach", "match_percentage": 70 },
+      { "role": "Baby Food Critic", "match_percentage": 65 },
+      { "role": "Toy Tester", "match_percentage": 60 },
+      { "role": "Crib Designer", "match_percentage": 55 }
+    ]
+  },
+  "2001": {
+    "analysis_summary": "Early cognitive development. Subject shows basic pattern recognition and response to auditory stimuli. Beginning to understand cause and effect relationships.",
+    "skills_matrix": { "Creativity": 15, "Logic": 10, "Physical": 25, "Social": 35, "Tech": 0 },
+    "top_career_matches": [
+      { "role": "Future Human", "match_percentage": 100 },
+      { "role": "Voice Recognition Specialist", "match_percentage": 85 },
+      { "role": "Communication Analyst", "match_percentage": 80 },
+      { "role": "Pattern Recognition Expert", "match_percentage": 75 },
+      { "role": "Social Interaction Coordinator", "match_percentage": 70 },
+      { "role": "Early Learning Consultant", "match_percentage": 65 },
+      { "role": "Sensory Integration Specialist", "match_percentage": 60 },
+      { "role": "Child Development Researcher", "match_percentage": 55 },
+      { "role": "Language Acquisition Expert", "match_percentage": 50 },
+      { "role": "Behavioral Analyst", "match_percentage": 45 }
+    ]
+  },
+  "2002": {
+    "analysis_summary": "Language acquisition phase. Subject demonstrates improved communication skills and ability to express needs effectively. Social interaction patterns emerging with intentional communication replacing basic signals.",
+    "skills_matrix": { "Creativity": 20, "Logic": 15, "Physical": 30, "Social": 45, "Tech": 0 },
+    "top_career_matches": [
+      { "role": "Future Human", "match_percentage": 100 },
+      { "role": "Language Specialist", "match_percentage": 90 },
+      { "role": "Communication Coordinator", "match_percentage": 85 },
+      { "role": "Social Skills Trainer", "match_percentage": 80 },
+      { "role": "Early Childhood Educator", "match_percentage": 75 },
+      { "role": "Speech Therapist", "match_percentage": 70 },
+      { "role": "Interpersonal Relations Expert", "match_percentage": 65 },
+      { "role": "Negotiation Specialist", "match_percentage": 60 },
+      { "role": "Customer Service Representative", "match_percentage": 55 },
+      { "role": "Public Relations Manager", "match_percentage": 50 }
+    ]
+  },
+  "2003": {
+    "analysis_summary": "Pre-school transition phase. Subject experiencing new environments and social structures. Memory formation and emotional regulation developing. Demonstrates resilience in adapting to unfamiliar settings.",
+    "skills_matrix": { "Creativity": 30, "Logic": 20, "Physical": 35, "Social": 50, "Tech": 5 },
+    "top_career_matches": [
+      { "role": "Future Human", "match_percentage": 100 },
+      { "role": "Early Childhood Educator", "match_percentage": 85 },
+      { "role": "Social Worker", "match_percentage": 80 },
+      { "role": "Child Psychologist", "match_percentage": 75 },
+      { "role": "Adaptation Specialist", "match_percentage": 70 },
+      { "role": "Memory Trainer", "match_percentage": 65 },
+      { "role": "Emotional Intelligence Coach", "match_percentage": 60 },
+      { "role": "Environmental Adaptation Expert", "match_percentage": 55 },
+      { "role": "Group Dynamics Coordinator", "match_percentage": 50 },
+      { "role": "Learning Environment Designer", "match_percentage": 45 }
+    ]
+  },
+  "2004 - 2009": {
+    "analysis_summary": "Primary education phase. Subject demonstrates exceptional creative abilities through constant drawing, filling entire books. Strong interest in building and making things inspired by educational shows. Natural athleticism through sports participation. Early career aspiration toward software engineering despite no computer access, indicating strong forward-thinking logic. Exceptional social skills with easy friend-making abilities.",
+    "skills_matrix": { "Creativity": 65, "Logic": 40, "Physical": 60, "Social": 75, "Tech": 15 },
+    "top_career_matches": [
+      { "role": "Artist", "match_percentage": 90 },
+      { "role": "Software Engineer", "match_percentage": 85 },
+      { "role": "Product Designer", "match_percentage": 80 },
+      { "role": "Community Organizer", "match_percentage": 75 },
+      { "role": "Physical Education Teacher", "match_percentage": 70 },
+      { "role": "Creative Director", "match_percentage": 65 },
+      { "role": "Maker/Inventor", "match_percentage": 60 },
+      { "role": "Social Coordinator", "match_percentage": 55 },
+      { "role": "Event Planner", "match_percentage": 50 },
+      { "role": "Youth Counselor", "match_percentage": 45 }
+    ]
+  },
+  "2010": {
+    "analysis_summary": "Consciousness awakening phase. Subject demonstrates self-directed learning and decision-making. First computer acquisition (Intel Dual-Core, 1GB RAM, 128GB HDD) marks beginning of technical journey. Immediate engagement with QBasic, HTML, and CSS through school curriculum. Strong gaming interest across multiple platforms. Natural affinity for technology and programming concepts detected.",
+    "skills_matrix": { "Creativity": 55, "Logic": 60, "Physical": 45, "Social": 55, "Tech": 50 },
+    "top_career_matches": [
+      { "role": "Software Developer", "match_percentage": 85 },
+      { "role": "Web Developer", "match_percentage": 80 },
+      { "role": "Game Developer", "match_percentage": 75 },
+      { "role": "Computer Science Teacher", "match_percentage": 70 },
+      { "role": "IT Support Specialist", "match_percentage": 65 },
+      { "role": "System Administrator", "match_percentage": 60 },
+      { "role": "Technical Writer", "match_percentage": 55 },
+      { "role": "QA Engineer", "match_percentage": 50 },
+      { "role": "DevOps Engineer", "match_percentage": 45 },
+      { "role": "Tech Consultant", "match_percentage": 40 }
+    ]
+  },
+  "2011": {
+    "analysis_summary": "Digital world entry phase. Subject demonstrates proactive learning to overcome FOMO from missed opportunities. Self-directed learning of Google SketchUp and arts & crafts. Strong collaborative skills working with peers. Shows initiative in catching up on missed content independently.",
+    "skills_matrix": { "Creativity": 65, "Logic": 60, "Physical": 50, "Social": 60, "Tech": 55 },
+    "top_career_matches": [
+      { "role": "3D Modeler", "match_percentage": 85 },
+      { "role": "CAD Designer", "match_percentage": 80 },
+      { "role": "Software Developer", "match_percentage": 75 },
+      { "role": "Technical Trainer", "match_percentage": 70 },
+      { "role": "Collaborative Learning Specialist", "match_percentage": 65 },
+      { "role": "Educational Technology Specialist", "match_percentage": 60 },
+      { "role": "Project Coordinator", "match_percentage": 55 },
+      { "role": "Technical Instructor", "match_percentage": 50 },
+      { "role": "Learning & Development Manager", "match_percentage": 45 },
+      { "role": "Knowledge Management Specialist", "match_percentage": 40 }
+    ]
+  },
+  "2012": {
+    "analysis_summary": "Programming proficiency emerging. Subject demonstrates strong logical thinking and problem-solving abilities through C and C++ curriculum. Deep fascination with coding. Strong experimental mindset exploring YouTube experiments (free energy concepts, robot building). Interest in systems understanding, game modding, and reverse engineering concepts. Natural curiosity for technical boundaries.",
+    "skills_matrix": { "Creativity": 70, "Logic": 75, "Physical": 50, "Social": 55, "Tech": 70 },
+    "top_career_matches": [
+      { "role": "Software Engineer", "match_percentage": 90 },
+      { "role": "Systems Programmer", "match_percentage": 85 },
+      { "role": "Game Developer", "match_percentage": 80 },
+      { "role": "Security Researcher", "match_percentage": 75 },
+      { "role": "Embedded Systems Developer", "match_percentage": 70 },
+      { "role": "Robotics Engineer", "match_percentage": 65 },
+      { "role": "Technical Experimentation Specialist", "match_percentage": 60 },
+      { "role": "Firmware Developer", "match_percentage": 55 },
+      { "role": "System Architect", "match_percentage": 50 },
+      { "role": "Technical Problem Solver", "match_percentage": 45 }
+    ]
+  },
+  "2013": {
+    "analysis_summary": "Learning obsession phase. Subject demonstrates exceptional ability to learn diverse skills rapidly to overcome FOMO. Mastery of After Effects (influenced by Andrew Kramer), CrazyTalk Animator, and Photoshop. Collaborative filmmaking projects with friends. Introduction to electronics at school. Strong creative technology intersection. Multidisciplinary learning approach evident.",
+    "skills_matrix": { "Creativity": 80, "Logic": 70, "Physical": 50, "Social": 60, "Tech": 65 },
+    "top_career_matches": [
+      { "role": "Video Editor", "match_percentage": 90 },
+      { "role": "Motion Graphics Designer", "match_percentage": 85 },
+      { "role": "Filmmaker", "match_percentage": 80 },
+      { "role": "VFX Artist", "match_percentage": 75 },
+      { "role": "Creative Technologist", "match_percentage": 70 },
+      { "role": "Multimedia Producer", "match_percentage": 65 },
+      { "role": "Animation Director", "match_percentage": 60 },
+      { "role": "Content Creator", "match_percentage": 55 },
+      { "role": "Digital Media Specialist", "match_percentage": 50 },
+      { "role": "Electronics Engineer", "match_percentage": 45 }
+    ]
+  },
+  "2014": {
+    "analysis_summary": "High school transition with expanded technical interests. Subject demonstrates paradigm shift in understanding physics and the world through self-directed reading beyond curriculum. Deep engagement with MAKE magazine. Significant electronics expertise developing through hands-on projects: LEDs, motors, toy cars, toothbrush bots, rubber band guns. Natural teaching and showcasing abilities. Strong maker mindset.",
+    "skills_matrix": { "Creativity": 75, "Logic": 80, "Physical": 60, "Social": 65, "Tech": 75 },
+    "top_career_matches": [
+      { "role": "Electronics Engineer", "match_percentage": 90 },
+      { "role": "Robotics Engineer", "match_percentage": 85 },
+      { "role": "Hardware Developer", "match_percentage": 80 },
+      { "role": "Mechatronics Engineer", "match_percentage": 75 },
+      { "role": "Technical Educator", "match_percentage": 70 },
+      { "role": "Product Developer", "match_percentage": 65 },
+      { "role": "Innovation Engineer", "match_percentage": 60 },
+      { "role": "Technical Demonstrator", "match_percentage": 55 },
+      { "role": "Prototype Developer", "match_percentage": 50 },
+      { "role": "Maker/Inventor", "match_percentage": 45 }
+    ]
+  },
+  "2015": {
+    "analysis_summary": "The hacker phase. Subject demonstrates exceptional Java proficiency with strong OOP understanding. Built 'Brigade OS' (specialized application). Introduction to cybersecurity concepts through 'Hacking for Dummies': VMs, Kali Linux, ethical hacking (phishing, XSS). Content creation pivot: YouTube channel 'Neutrino' transitioned from Rubik's Cube solves to Java tutorials. Strong technical communication skills emerging.",
+    "skills_matrix": { "Creativity": 70, "Logic": 80, "Physical": 50, "Social": 60, "Tech": 75 },
+    "top_career_matches": [
+      { "role": "Software Developer", "match_percentage": 90 },
+      { "role": "Cybersecurity Specialist", "match_percentage": 85 },
+      { "role": "Technical Content Creator", "match_percentage": 80 },
+      { "role": "Security Researcher", "match_percentage": 75 },
+      { "role": "Systems Administrator", "match_percentage": 70 },
+      { "role": "Game Developer", "match_percentage": 65 },
+      { "role": "IT Specialist", "match_percentage": 60 },
+      { "role": "Platform Engineer", "match_percentage": 55 },
+      { "role": "Technical Consultant", "match_percentage": 50 },
+      { "role": "Educational Content Creator", "match_percentage": 45 }
+    ]
+  },
+  "2016": {
+    "analysis_summary": "End of high school phase. Subject demonstrates deep understanding of physics and chemistry, successfully applying scientific principles to technology. Strong interest in 3D graphics and game development: learned Blender, Cinema4D, and Unity. Built 'Office Run' (2D jetpack game) and 'Santa's Lost Hat' (3D platformer). Passion for world-building and game creation evident.",
+    "skills_matrix": { "Creativity": 80, "Logic": 85, "Physical": 50, "Social": 50, "Tech": 80 },
+    "top_career_matches": [
+      { "role": "Game Developer", "match_percentage": 90 },
+      { "role": "3D Graphics Artist", "match_percentage": 85 },
+      { "role": "Physics Programmer", "match_percentage": 80 },
+      { "role": "Technical Artist", "match_percentage": 75 },
+      { "role": "Simulation Engineer", "match_percentage": 70 },
+      { "role": "Visual Effects Programmer", "match_percentage": 65 },
+      { "role": "Game Engine Developer", "match_percentage": 60 },
+      { "role": "Computational Physicist", "match_percentage": 55 },
+      { "role": "VR/AR Developer", "match_percentage": 50 },
+      { "role": "Technical Director", "match_percentage": 45 }
+    ]
+  },
+  "2017": {
+    "analysis_summary": "Pre-university phase. Subject demonstrates advanced self-directed learning through 'The Coding Train' binge-watching. Strong interest in physics simulations using P5.js. Built first neural network for handwriting recognition, showing early AI/ML interest. Deep technical dive into electronics: transducers, silicon, digital vs. analog circuits. Significant theoretical and practical electronics knowledge.",
+    "skills_matrix": { "Creativity": 75, "Logic": 85, "Physical": 50, "Social": 50, "Tech": 80 },
+    "top_career_matches": [
+      { "role": "Machine Learning Engineer", "match_percentage": 85 },
+      { "role": "Electronics Engineer", "match_percentage": 80 },
+      { "role": "AI Researcher", "match_percentage": 75 },
+      { "role": "Simulation Engineer", "match_percentage": 70 },
+      { "role": "Hardware Engineer", "match_percentage": 65 },
+      { "role": "Data Scientist", "match_percentage": 60 },
+      { "role": "Embedded Systems Developer", "match_percentage": 55 },
+      { "role": "Computational Physicist", "match_percentage": 50 },
+      { "role": "Technical Researcher", "match_percentage": 45 },
+      { "role": "Systems Architect", "match_percentage": 40 }
+    ]
+  },
+  "2018": {
+    "analysis_summary": "The maker year. Subject demonstrates exceptional hands-on skills: hand-soldered digital clock without microcontroller (demonstrating deep electronics understanding). Massive Arduino project portfolio: 20-30 projects including scientific calculators and drones. College exhibition provided focus for practical learning. Strong maker/DIY ethos with production-level project execution.",
+    "skills_matrix": { "Creativity": 80, "Logic": 85, "Physical": 65, "Social": 55, "Tech": 85 },
+    "top_career_matches": [
+      { "role": "Hardware Engineer", "match_percentage": 90 },
+      { "role": "Embedded Systems Developer", "match_percentage": 85 },
+      { "role": "Robotics Engineer", "match_percentage": 80 },
+      { "role": "Electronics Engineer", "match_percentage": 75 },
+      { "role": "Product Developer", "match_percentage": 70 },
+      { "role": "Prototype Developer", "match_percentage": 65 },
+      { "role": "Maker/Inventor", "match_percentage": 60 },
+      { "role": "Technical Demonstrator", "match_percentage": 55 },
+      { "role": "Innovation Engineer", "match_percentage": 50 },
+      { "role": "Hardware Designer", "match_percentage": 45 }
+    ]
+  },
+  "2019": {
+    "analysis_summary": "Engineering & first internship phase. Subject demonstrates career clarity through experimentation: video editing internship revealed non-fit, leading to pivot. Strong hackathon performance winning paid internship in medical devices and EVs. Found professional community alignment. Shows ability to quickly assess fit and pivot strategically.",
+    "skills_matrix": { "Creativity": 75, "Logic": 85, "Physical": 55, "Social": 65, "Tech": 85 },
+    "top_career_matches": [
+      { "role": "Embedded Systems Engineer", "match_percentage": 90 },
+      { "role": "Medical Device Engineer", "match_percentage": 85 },
+      { "role": "EV Engineer", "match_percentage": 80 },
+      { "role": "Hardware Engineer", "match_percentage": 75 },
+      { "role": "Robotics Engineer", "match_percentage": 70 },
+      { "role": "Product Engineer", "match_percentage": 65 },
+      { "role": "Systems Engineer", "match_percentage": 60 },
+      { "role": "Innovation Engineer", "match_percentage": 55 },
+      { "role": "Technical Consultant", "match_percentage": 50 },
+      { "role": "Research Engineer", "match_percentage": 45 }
+    ]
+  },
+  "2020": {
+    "analysis_summary": "Lockdown & viral fame phase. Subject demonstrates entrepreneurial initiative: launched Arduino course, worked at token management startup, built React Native app. Collegiate Go-Kart racing team participation. Viral calculator hack video featured on VICE and international news, opening global freelancing opportunities. Strong content creation and technical communication skills. Multi-project execution capability.",
+    "skills_matrix": { "Creativity": 80, "Logic": 85, "Physical": 60, "Social": 70, "Tech": 90 },
+    "top_career_matches": [
+      { "role": "Full Stack Developer", "match_percentage": 90 },
+      { "role": "Mobile App Developer", "match_percentage": 85 },
+      { "role": "Technical Content Creator", "match_percentage": 80 },
+      { "role": "Embedded Systems Engineer", "match_percentage": 75 },
+      { "role": "Technical Educator", "match_percentage": 70 },
+      { "role": "Software Engineer", "match_percentage": 65 },
+      { "role": "Product Manager", "match_percentage": 60 },
+      { "role": "Technical Consultant", "match_percentage": 55 },
+      { "role": "Freelance Developer", "match_percentage": 50 },
+      { "role": "Startup Founder", "match_percentage": 45 }
+    ]
+  },
+  "2021": {
+    "analysis_summary": "Going global phase. Subject demonstrates international client work capability: GPS voice assistant for Danish client, acoustic device for Brazilian company. Significant open-source contributions around MP3 players. Industrial design studio internship secured through open-source work. Strong global collaboration and technical communication skills. Professional-grade project delivery.",
+    "skills_matrix": { "Creativity": 85, "Logic": 90, "Physical": 55, "Social": 75, "Tech": 92 },
+    "top_career_matches": [
+      { "role": "Full Stack Engineer", "match_percentage": 95 },
+      { "role": "Embedded Systems Engineer", "match_percentage": 90 },
+      { "role": "Industrial Designer", "match_percentage": 85 },
+      { "role": "Technical Lead", "match_percentage": 80 },
+      { "role": "Open Source Contributor", "match_percentage": 75 },
+      { "role": "Product Engineer", "match_percentage": 70 },
+      { "role": "Solutions Architect", "match_percentage": 65 },
+      { "role": "Technical Consultant", "match_percentage": 60 },
+      { "role": "Freelance Developer", "match_percentage": 55 },
+      { "role": "Senior Software Engineer", "match_percentage": 50 }
+    ]
+  },
+  "2022": {
+    "analysis_summary": "Final year of engineering phase. Subject demonstrates professional multitasking: design studio work while completing classes. Learned mass manufacturing and industrial design principles. Academic excellence: published two IEEE papers, secured patents. Community leadership: hosted workshops across Bangalore. Launched PCBCupid as Q&A site. Personal development: achieved 1200 ELO on Chess.com. Strong research, teaching, and entrepreneurial capabilities.",
+    "skills_matrix": { "Creativity": 85, "Logic": 92, "Physical": 55, "Social": 80, "Tech": 93 },
+    "top_career_matches": [
+      { "role": "Research Engineer", "match_percentage": 90 },
+      { "role": "Industrial Designer", "match_percentage": 85 },
+      { "role": "Technical Lead", "match_percentage": 80 },
+      { "role": "Engineering Manager", "match_percentage": 75 },
+      { "role": "Product Manager", "match_percentage": 70 },
+      { "role": "Technical Educator", "match_percentage": 65 },
+      { "role": "Solutions Architect", "match_percentage": 60 },
+      { "role": "Startup Founder", "match_percentage": 55 },
+      { "role": "CTO / Founder", "match_percentage": 50 },
+      { "role": "Senior Software Engineer", "match_percentage": 45 }
+    ]
+  },
+  "2023": {
+    "analysis_summary": "Job to exploration phase. Subject demonstrates entrepreneurial courage: quit job in Q1 to go solo. Pivoted PCBCupid into YouTube channel and hired interns. Life-changing train travel across India with 800 strangers, learning entrepreneurship and funding. Won hardware contests. High-level consulting: high-speed electronics and Embedded Linux. Personal milestone: learned to swim. Strong risk-taking, leadership, and technical expertise.",
+    "skills_matrix": { "Creativity": 88, "Logic": 93, "Physical": 60, "Social": 85, "Tech": 95 },
+    "top_career_matches": [
+      { "role": "CTO / Founder", "match_percentage": 95 },
+      { "role": "Technical Lead", "match_percentage": 90 },
+      { "role": "Embedded Systems Engineer", "match_percentage": 85 },
+      { "role": "Engineering Manager", "match_percentage": 80 },
+      { "role": "Technical Consultant", "match_percentage": 75 },
+      { "role": "Startup Founder", "match_percentage": 70 },
+      { "role": "Solutions Architect", "match_percentage": 65 },
+      { "role": "Product Manager", "match_percentage": 60 },
+      { "role": "Content Creator", "match_percentage": 55 },
+      { "role": "Senior Software Engineer", "match_percentage": 50 }
+    ]
+  },
+  "2024": {
+    "analysis_summary": "PCBCupid company phase. Subject demonstrates business execution: officially registered PCBCupid as company on Valentine's Day. Goal: build India's largest hardware community. Product launch: collaborated with LionCircuits to launch GLYPH (affordable ESP32 board). B2B sales growth. Advanced technical skills: Zephyr RTOS, high-speed design. Professional development: attended Microchip Masters for EMI/EMC expertise. Strong technical depth and business acumen.",
+    "skills_matrix": { "Creativity": 85, "Logic": 95, "Physical": 55, "Social": 88, "Tech": 97 },
+    "top_career_matches": [
+      { "role": "CTO / Founder", "match_percentage": 98 },
+      { "role": "Technical Lead", "match_percentage": 95 },
+      { "role": "Hardware Engineer", "match_percentage": 90 },
+      { "role": "Engineering Manager", "match_percentage": 85 },
+      { "role": "Product Manager", "match_percentage": 80 },
+      { "role": "Solutions Architect", "match_percentage": 75 },
+      { "role": "Embedded Systems Engineer", "match_percentage": 70 },
+      { "role": "Technical Consultant", "match_percentage": 65 },
+      { "role": "Startup Founder", "match_percentage": 60 },
+      { "role": "System Architect", "match_percentage": 55 }
+    ]
+  },
+  "2025": {
+    "analysis_summary": "Scaling up phase. Subject demonstrates organizational growth: team expansion, PCBCupid becoming trusted vendor for multiple companies. Strong community leadership: hosting 'Founder Mode' events and two successful hackathons. Strategic networking: FOSSIndia 2025 participation brought partnerships and expanded hardware circle significantly. Strong social and business development skills alongside technical expertise.",
+    "skills_matrix": { "Creativity": 88, "Logic": 95, "Physical": 55, "Social": 92, "Tech": 97 },
+    "top_career_matches": [
+      { "role": "CTO / Founder", "match_percentage": 98 },
+      { "role": "Engineering Manager", "match_percentage": 95 },
+      { "role": "Technical Lead", "match_percentage": 90 },
+      { "role": "Product Manager", "match_percentage": 85 },
+      { "role": "Startup Founder", "match_percentage": 80 },
+      { "role": "Solutions Architect", "match_percentage": 75 },
+      { "role": "Community Builder", "match_percentage": 70 },
+      { "role": "Technical Consultant", "match_percentage": 65 },
+      { "role": "Business Development Manager", "match_percentage": 60 },
+      { "role": "System Architect", "match_percentage": 55 }
+    ]
+  },
+  "2026": {
+    "analysis_summary": "Beyond & beyond phase. Subject is positioned for continued growth and expansion. Next chapter loading with strong foundation in hardware engineering, entrepreneurship, community building, and technical leadership. Operating at peak capacity across multiple dimensions.",
+    "skills_matrix": { "Creativity": 90, "Logic": 95, "Physical": 55, "Social": 92, "Tech": 98 },
+    "top_career_matches": [
+      { "role": "CTO / Founder", "match_percentage": 98 },
+      { "role": "Engineering Manager", "match_percentage": 95 },
+      { "role": "Technical Lead", "match_percentage": 92 },
+      { "role": "Startup Founder", "match_percentage": 90 },
+      { "role": "Product Manager", "match_percentage": 85 },
+      { "role": "Solutions Architect", "match_percentage": 80 },
+      { "role": "Community Builder", "match_percentage": 75 },
+      { "role": "Technical Consultant", "match_percentage": 70 },
+      { "role": "System Architect", "match_percentage": 65 },
+      { "role": "Innovation Director", "match_percentage": 60 }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeline: A Journey of Learning</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=VT323&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1>The Archive</h1>
+            <p class="subtitle">From analog beginnings to digital horizons.</p>
+            
+            <div class="charts-wrapper">
+                <div class="chart-box">
+                    <h3>Skill Matrix</h3>
+                    <div class="canvas-container">
+                        <canvas id="heroSkillChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-box">
+                    <h3>Career Probability (Top 10)</h3>
+                    <div class="canvas-container">
+                        <canvas id="heroCareerChart"></canvas>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <main class="timeline-container" id="timeline-app">
+        <div class="timeline-line"></div>
+    </main>
+
+    <div id="imageModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImg">
+        <div id="caption"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

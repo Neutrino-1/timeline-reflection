@@ -1,0 +1,185 @@
+[
+  {
+    "year": "1999",
+    "title": "Hello World",
+    "description": "Born into the world. The journey of learning began with the basics: breathing, crying, and figuring out this whole 'being alive' thing.",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2001",
+    "title": "Maybe I understood something",
+    "description": "Started reacting to voices and understanding a few things. Mostly, I mastered the art of crying to get exactly what I needed.",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2002",
+    "title": "Blabbering my first words",
+    "description": "Words started forming. I began responding to people and actually asking for what I wanted instead of just making noise.",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2003",
+    "title": "Pre-school... I think?",
+    "description": "I vaguely remember pre-school. Going to a new place felt pretty traumatizing at the time, but I survived.",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2004 - 2009",
+    "title": "The School Years",
+    "description": "School is a blur, but I remember drawing constantly—filling entire books. Shows like Art Attack and M.A.D. sparked an interest in building things. I played a lot of sports, and weirdly, I wanted to be a software engineer despite not owning a computer or knowing how to use one. I made friends so easily back then; it's surprising how hard that is as an adult now that most conversations turn into professional small talk.",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2010",
+    "title": "Consciousness Unlocked",
+    "description": "I started making my own decisions and finally got my first computer (a used Intel Dual-Core with 1GB RAM and 128GB HDD). I dove into QBasic, HTML, and CSS thanks to the school curriculum and explored the gaming world—Miniclip, Friv, CLAW, Half-Life, and GTA.",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2011",
+    "title": "Entering the digital world",
+    "description": "I missed out on summer camps because I traveled to Tamil Nadu every year, which gave me major FOMO. To catch up, I started learning Google SketchUp and arts & crafts with a friend. We've lost touch since 2012, but it would be a cool surprise to meet up now and see how life turned out.",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2012",
+    "title": "Talking to Computers",
+    "description": "Around 7th or 8th grade, C and C++ were part of the curriculum, and I fell in love with coding. I also got obsessed with YouTube experiments—trying to create 'free energy' from magnets or building robots out of plastic boxes. I learned about cracking games and mods, though obviously, I *never* tried any of that. ;)",
+    "images": [
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=500&q=60",
+      "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2013",
+    "title": "Learning became an obsession",
+    "description": "To fight the FOMO, I learned whatever I could—After Effects (shoutout to Andrew Kramer), CrazyTalk Animator, and Photoshop. I tried making short films with friends and got introduced to electronics at school. Also, 'Total Overdose' is the greatest game of all time. Fight me.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2014",
+    "title": "Beginning of High School",
+    "description": "High school shifted my perspective on physics and the world. I read books outside the curriculum, got into MAKE magazine, and deep-dived into electronics. I built things with LEDs and motors—toy cars, toothbrush bots, rubber band guns—and felt like a genius showing them off at school.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2015",
+    "title": "The Hacker Phase",
+    "description": "I got hooked on Java. Trust me, I was surprisingly good at it—understanding OOP concepts that sound like a nightmare now. I even built 'Brigade OS' (basically just a specialized app). The book 'Hacking for Dummies' introduced me to VMs, Kali Linux, and ethical hacking concepts like phishing and XSS. This was also when I started my YouTube channel, 'Neutrino,' pivoting from Rubik's Cube solves to Java tutorials.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2016",
+    "title": "End of High School",
+    "description": "Physics and chemistry started making more sense, which fed into my computer interests. I learned Blender, Cinema4D, and Unity. I built 'Office Run' (a 2D jetpack-style game) and 'Santa's Lost Hat' (a 3D platformer). I loved the feeling of creating worlds.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2017",
+    "title": "Pre-University",
+    "description": "Got my own phone and binge-watched 'The Coding Train.' I played with physics simulations in P5.js and built my first neural network for handwriting recognition. I also went technically deep into electronics—transducers, silicon, digital vs. analog circuits.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2018",
+    "title": "The Maker Year",
+    "description": "I hand-soldered a digital clock without a microcontroller (painful but rewarding). I dove into Arduino, building 20-30 projects ranging from scientific calculators to drones, thanks to a college exhibition that let me focus purely on practical learning.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2019",
+    "title": "Engineering & First Internship",
+    "description": "College wasn't what I expected, so I found an online internship doing video editing. It was fun as a hobby, but I realized I didn't want it as a career. I quit, started attending hackathons, and won a paid internship working on medical devices and EVs. Finally found my crowd.",
+    "images": [
+      "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2020",
+    "title": "Lockdown & Viral Fame",
+    "description": "During lockdown, I launched an Arduino course, worked at a token management startup, and helped build a React Native app. I was also part of a collegiate Go-Kart racing team. Randomly, a 'calculator hack' video I made went viral, getting featured on VICE and international news, which opened doors for global freelancing.",
+    "images": [
+      "https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2021",
+    "title": "Going Global",
+    "description": "Oddly, the pandemic years were great for learning. I worked with international clients—building a GPS voice assistant for a Danish client and an acoustic device for a Brazilian company. I did a lot of open-source work around MP3 players, which eventually landed me an internship at an industrial design studio.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2022",
+    "title": "Final Year of Engineering",
+    "description": "Worked at the design studio while finishing classes. I learned way more about mass manufacturing and industrial design than electronics there. I published two IEEE papers, secured a couple of patents, and hosted workshops across Bangalore. I also launched PCBCupid as a Q&A site and hit 1200 ELO on Chess.com.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2023",
+    "title": "Job to Exploration",
+    "description": "Quit my job in Q1 to go solo. I pivoted PCBCupid into a YouTube channel and hired interns. I also traveled across India by train with 800 strangers—a life-changing trip that taught me about entrepreneurship and funding. I won some hardware contests (which helped the bank account) and consulted on high-speed electronics and Embedded Linux. Oh, and I finally learned to swim!",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2024",
+    "title": "PCBCUPID",
+    "description": "Officially registered PCBCupid as a company on Valentine's Day. The goal: build India's largest hardware community. We collaborated with LionCircuits to launch GLYPH (an affordable ESP32 board). It was a slow start, but B2B sales picked up. I also leveled up my skills in Zephyr RTOS and high-speed design, attending Microchip Masters to learn about EMI/EMC.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2025",
+    "title": "Scaling Up",
+    "description": "The team grew, and PCBCupid became a trusted vendor for many companies. I got more social, hosting 'Founder Mode' events and two wildly successful hackathons. We participated in FOSSIndia 2025, which brought great partnerships and expanded my hardware circle significantly.",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  },
+  {
+    "year": "2026",
+    "title": "Beyond & Beyond",
+    "description": "Loading the next chapter...",
+    "images": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=500&q=60"
+    ]
+  }
+]
