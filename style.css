@@ -158,6 +158,11 @@ body {
     font-family: var(--title-font);
     font-size: 1.3rem;
     transition: transform 0.2s;
+    cursor: pointer;
+}
+
+.year-bubble:hover {
+    transform: scale(1.05);
 }
 
 /* --- Item Content --- */
@@ -220,6 +225,38 @@ body {
     box-shadow: 4px 4px 0px rgba(0,0,0,0.2);
 }
 .toggle-stats-btn:active {
+    transform: translate(1px, 1px);
+    box-shadow: 0px 0px 0px;
+}
+
+/* Close Accordion Button */
+.close-accordion-btn {
+    background: #fff;
+    border: 2px solid #ff0000;
+    color: #ff0000;
+    font-family: var(--body-font);
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 35px;
+    height: 35px;
+    padding: 0;
+    cursor: pointer;
+    box-shadow: 2px 2px 0px rgba(255,0,0,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+    line-height: 1;
+}
+
+.close-accordion-btn:hover {
+    transform: translate(-1px, -1px);
+    box-shadow: 4px 4px 0px rgba(255,0,0,0.5);
+    background: #ff0000;
+    color: #fff;
+}
+
+.close-accordion-btn:active {
     transform: translate(1px, 1px);
     box-shadow: 0px 0px 0px;
 }
@@ -302,6 +339,19 @@ body {
 }
 .future-mode .toggle-stats-btn:hover {
     box-shadow: 4px 4px 0px var(--neon-green);
+}
+
+.future-mode .close-accordion-btn {
+    background: #000;
+    color: #ff0000;
+    border-color: #ff0000;
+    box-shadow: 2px 2px 0px rgba(255,0,0,0.5);
+}
+
+.future-mode .close-accordion-btn:hover {
+    background: #ff0000;
+    color: #000;
+    box-shadow: 4px 4px 0px rgba(255,0,0,0.7);
 }
 
 .future-mode .ai-note {

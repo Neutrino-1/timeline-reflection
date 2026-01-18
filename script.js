@@ -116,13 +116,14 @@ document.addEventListener('DOMContentLoaded', async () => {
             div.innerHTML = `
                 <div class="year-header">
                     <div class="year-bubble">${item.year}</div>
-                    <button class="toggle-stats-btn" data-index="${index}">
+                    <button class="toggle-stats-btn" data-index="${index}" style="display: none;">
                         📊 Stats
                     </button>
                 </div>
                 <div class="item-content">
                     <div class="content-header">
                         <h3>${item.title}</h3>
+                        <button class="close-accordion-btn" data-index="${index}" style="display: none;">✕</button>
                     </div>
                     
                     <div class="text-view" id="text-view-${index}">
@@ -139,49 +140,78 @@ document.addEventListener('DOMContentLoaded', async () => {
                 </div>
             `;
 
-            // Expand Accordion on Item Click (but not on year header)
-            div.addEventListener('click', (e) => {
-                // If clicking an image, year header, or stats button, don't toggle accordion
-                if(e.target.classList.contains('thumb') || 
-                   e.target.closest('.year-header') || 
-                   e.target.closest('.toggle-stats-btn')) return; 
+            // Function to close an accordion
+            const closeAccordion = (itemDiv, itemIndex) => {
+                itemDiv.classList.remove('active');
+                const toggleBtn = document.querySelector(`.toggle-stats-btn[data-index="${itemIndex}"]`);
+                const closeBtn = document.querySelector(`.close-accordion-btn[data-index="${itemIndex}"]`);
+                if (toggleBtn) toggleBtn.style.display = 'none';
+                if (closeBtn) closeBtn.style.display = 'none';
                 
-                const wasActive = div.classList.contains('active');
-                
+                // Reset view state
+                const textView = document.getElementById(`text-view-${itemIndex}`);
+                const graphView = document.getElementById(`graph-view-${itemIndex}`);
+                if (textView && graphView) {
+                    textView.style.display = 'block';
+                    graphView.style.display = 'none';
+                    if (toggleBtn) toggleBtn.textContent = '📊 Stats';
+                }
+            };
+
+            // Function to open an accordion
+            const openAccordion = (itemDiv, itemIndex) => {
+                // Close all other accordions first
                 document.querySelectorAll('.timeline-item').forEach(i => {
-                    if(i !== div) {
-                        i.classList.remove('active');
-                        // Reset view state for other items
-                        const otherIndex = Array.from(app.children).indexOf(i);
-                        if (otherIndex >= 0) {
-                            const otherTextView = document.getElementById(`text-view-${otherIndex}`);
-                            const otherGraphView = document.getElementById(`graph-view-${otherIndex}`);
-                            const otherToggleBtn = document.querySelector(`.toggle-stats-btn[data-index="${otherIndex}"]`);
-                            if (otherTextView && otherGraphView) {
-                                otherTextView.style.display = 'block';
-                                otherGraphView.style.display = 'none';
-                                if (otherToggleBtn) otherToggleBtn.textContent = '📊 Stats';
-                            }
-                        }
+                    const otherIndex = Array.from(app.children).indexOf(i);
+                    if (otherIndex >= 0 && i !== itemDiv) {
+                        closeAccordion(i, otherIndex);
                     }
                 });
                 
-                // Toggle active state
-                if (!wasActive) {
-                    div.classList.add('active');
-                    // Reset to text view when opening
-                    viewState.isGraphView = false;
-                    const textView = document.getElementById(`text-view-${index}`);
-                    const graphView = document.getElementById(`graph-view-${index}`);
-                    const toggleBtn = document.querySelector(`.toggle-stats-btn[data-index="${index}"]`);
-                    if (textView && graphView) {
-                        textView.style.display = 'block';
-                        graphView.style.display = 'none';
-                        if (toggleBtn) toggleBtn.textContent = '📊 Stats';
-                    }
-                } else {
-                    div.classList.remove('active');
+                // Open this accordion
+                itemDiv.classList.add('active');
+                const toggleBtn = document.querySelector(`.toggle-stats-btn[data-index="${itemIndex}"]`);
+                const closeBtn = document.querySelector(`.close-accordion-btn[data-index="${itemIndex}"]`);
+                if (toggleBtn) toggleBtn.style.display = 'flex';
+                if (closeBtn) closeBtn.style.display = 'block';
+                
+                // Reset to text view when opening
+                viewState.isGraphView = false;
+                const textView = document.getElementById(`text-view-${itemIndex}`);
+                const graphView = document.getElementById(`graph-view-${itemIndex}`);
+                if (textView && graphView) {
+                    textView.style.display = 'block';
+                    graphView.style.display = 'none';
+                    if (toggleBtn) toggleBtn.textContent = '📊 Stats';
                 }
+            };
+
+            // Click on year bubble to open accordion
+            const yearBubble = div.querySelector('.year-bubble');
+            yearBubble.addEventListener('click', (e) => {
+                e.stopPropagation();
+                if (div.classList.contains('active')) {
+                    closeAccordion(div, index);
+                } else {
+                    openAccordion(div, index);
+                }
+            });
+
+            // Close button click handler
+            const closeBtn = div.querySelector('.close-accordion-btn');
+            closeBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                closeAccordion(div, index);
+            });
+
+            // Click on content area (but not buttons/images) - do nothing or close
+            div.addEventListener('click', (e) => {
+                // If clicking an image, button, or header, don't do anything
+                if(e.target.classList.contains('thumb') || 
+                   e.target.closest('.year-header') || 
+                   e.target.closest('.toggle-stats-btn') ||
+                   e.target.closest('.close-accordion-btn') ||
+                   e.target.closest('.content-header')) return;
             });
 
             // Toggle Graph Logic
@@ -191,7 +221,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 
                 // Ensure the accordion is open if it isn't
                 if (!div.classList.contains('active')) {
-                    div.classList.add('active');
+                    openAccordion(div, index);
                 }
 
                 // Toggle between text and graph view
