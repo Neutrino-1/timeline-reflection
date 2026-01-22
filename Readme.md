@@ -1,6 +1,7 @@
 # Timeline: A Journey of Learning
 
 A reflective web application that visualizes your life journey and career path through an interactive timeline. This website helps you reflect on the past and understand what decisions led you to your current career path.
+Note : Desktop use only! (The site is not responsive)
 
 ## Purpose
 
@@ -158,3 +159,4 @@ Contributions are welcome! Feel free to:
 This project is open source and licensed under the **MIT License**.
 
 **Happy reflecting! 🚀**
+
